@@ -1,5 +1,5 @@
 if [ "$#" -ne 1 ]; then
-    echo "Usage: ./dynamic_rsync.sh [SOURCE_PATH]"
+    echo "Usage: ./rsync_data.sh [SOURCE_PATH]"
     exit 1
 fi
 
