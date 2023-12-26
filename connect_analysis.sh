@@ -12,7 +12,7 @@ read length_threshold
 # source_file="4D_HF.fa.db.fib.gz"
 # demo_file="participants_test.tsv"
 
-# Run DSI Studio command with user inputs
+# run DSI Studio command with user inputs
 dsi_studio --action=cnt \
            --source=$source_file \
            --demo=$demo_file \
