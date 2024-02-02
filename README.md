@@ -1,4 +1,4 @@
-# Script for DSI studio and other automatization tasks
+# Script for DSI studio and other automatization tasks for MRI
 
 ### Commands:
 
